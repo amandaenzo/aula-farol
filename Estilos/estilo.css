@@ -1,0 +1,12 @@
+body{
+    font-size: 16px; /*px significa "pixels"
+    font-size é o tamanho da fonte base que agora é 16 pixels*/
+    font-family: arial, helvetica, sans-serif; /* este é o nome da fonte*/
+}
+h1 {
+    text-align: center;
+}
+p {
+    color:red;
+    background-color: black;
+}
